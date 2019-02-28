@@ -4,4 +4,5 @@
 
 ## Subpackages (ongoing)
 
-* **[haip.config](https://github.com/haipdev/config/)** - a simple configuration manager for yaml based config files
+* **[haip.config](https://github.com/haipdev/config/)** - A yaml based configuration module
+* **[haip.template](https://github.com/haipdev/template/)** - A Jinja2 based async template rendering module
